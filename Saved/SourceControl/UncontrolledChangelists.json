@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jkrow/Documents/Unreal Projects/Sonic-Springworks/Content/SonicSpringworks/Levels/TestMap/AnotherTestMap.umap",
+				"C:/Users/jkrow/Documents/Unreal Projects/Sonic-Springworks/Content/Splash/EdSplash.uasset",
+				"C:/Users/jkrow/Documents/Unreal Projects/Sonic-Springworks/Content/Splash/Splash.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Levels/TestMap/NewTestMap.umap",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/System/SpringPawn.uasset",
@@ -237,7 +240,6 @@
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Objects/Wisps/WispUse/Mesh/Cube/cmn_obj_wispcube_model_PhysicsAsset.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/DashEngine/Objects/Wisps/Capsuke/Cube/M_CubeBody.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/DashEngine/Objects/Wisps/Capsuke/Cube/M_CubeEye.uasset",
-				"C:/Users/jkrow/Documents/Unreal Projects/Sonic-Springworks/Content/SonicSpringworks/Levels/TestMap/AnotherTestMap.umap",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/NewFolder/chr_shadow_fix_model.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/NewFolder/chr_shadow_fix_model_PhysicsAsset.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/shadow_PhysicsAsset.uasset",
